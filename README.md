@@ -19,26 +19,6 @@ This repository demonstrates Git and GitHub workflows including branching strate
 - [Conclusion](#conclusion)
 
 ---
-# Visual Git workflow diagram
-
-A screenshot of a Windows PowerShell terminal displaying the output of the git log command with the options graph, oneline, decorate, and all. The primary subject is a visual representation of a Git repository's commit history, showing multiple branches, merges, and tags. The graph uses colored lines and asterisks to illustrate the branching structure and merge points. Each commit is listed with a short hash, branch or tag labels, and a brief commit message. The environment is a dark-themed terminal window, and the emotional tone is technical and organized. The following text is transcribed from the image:
-
-PS D:HV AssignmentsGit and GithubGit_assignment_HeroVired> git log --graph --oneline --decorate --all
-622bce1 (origin/dev, dev) Merge pull request 5 from rinku-chauhan/feature/rectangle-area
-3db91b0 (origin/feature/rectangle-area, feature/rectangle-area) Implement rectangle area feature
-86cc07a Merge pull request 4 from rinku-chauhan/feature/circle-area
-afea516 (origin/feature/circle-area, feature/circle-area) Implement circle area feature
-6c4d3fd (origin/geometry-calculator, geometry-calculator) Add base Geometry Calculator program
-98c13f1 (origin/lfs, lfs) Add 230MB file using Git LFS
-43d6c4c Configure Git LFS tracking for bin files
-254096d (HEAD -> main, tag: v2.0, origin/main, origin/HEAD) Merge branch main of https://github.com/rinku-chauhan/Git_assignment_HeroVired
-937bdf1 Merge pull request 2 from rinku-chauhan/dev
-88daabb Merge pull request 3 from rinku-chauhan/feature/sqrt
-e5bb909 (origin/feature/sqrt, feature/sqrt) Merge branch dev into feature/sqrt
-80fe2a0 Bug fix: prevent division by zero
-b3e12fb Added square root functionality
-fc2753e (tag: v1.0) added CalculatorPlus base application
-e8f5b05 Initial commit
 
 # Project Overview
 
