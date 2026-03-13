@@ -306,9 +306,19 @@ The following command was used to visualize the branch structure:
 
 ```
 git log --graph --oneline --decorate --all
+
 ```
 
-This confirms the correct Git workflow using feature branches and pull requests.
+```
+## Code Review Collaboration
+
+As part of the assignment requirement, I collaborated with a classmate by reviewing their GitHub repository.
+
+Steps performed:
+
+1. Added my classmate as a collaborator for my repository.
+2. Reviewed the implementation in their repository.
+3. Provided feedback through GitHub comments on their Pull Request.
 
 ---
 
