@@ -172,8 +172,6 @@ Verification command:
 git lfs ls-files
 ```
 
-This confirms that the file is tracked using Git LFS.
-
 ---
 
 # Q3 – Geometry Calculator Using Git Stash
@@ -313,13 +311,23 @@ git log --graph --oneline --decorate --all
 # Code Review Collaboration
 ```
 
-As part of the assignment requirement, I collaborated with a classmate by reviewing their GitHub repository.
+# As part of the assignment requirement, I collaborated with a classmate by reviewing their GitHub repository.
 
 Steps performed:
 
 1. Added my classmate as a collaborator for repository.
 2. Reviewed the implementation in their repository.
 3. Provided feedback through GitHub comments on their Pull Request.
+
+
+# A pull request was created and reviewed by a collaborator.
+
+Steps performed:
+
+1. Created a feature branch and raised a pull request.
+2. Added a collaborator as reviewer.
+3. Reviewer approved the pull request.
+4. The pull request was merged into the main branch after approval.
 
 ```
 # Conclusion
