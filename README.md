@@ -1,4 +1,4 @@
-# Git Assignment – HeroVired
+# Git Assignment
 
 This repository demonstrates Git and GitHub workflows including branching strategies, pull requests, Git LFS, and Git stash.
 
