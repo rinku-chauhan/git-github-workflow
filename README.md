@@ -1,6 +1,6 @@
-# Git Assignment
+# Git Workflows
 
-This repository demonstrates Git and GitHub workflows including branching strategies, pull requests, Git LFS, and Git stash.
+This repository demonstrates Git workflows including branching strategies, pull requests, Git LFS, and Git stash.
 
 ---
 
@@ -309,11 +309,11 @@ git log --graph --oneline --decorate --all
 # Code Review Collaboration
 ```
 
-# As part of the assignment requirement, I collaborated with a classmate by reviewing their GitHub repository.
+# I reviewed an another GitHub repository.
 
 Steps performed:
 
-1. Added my classmate as a collaborator for repository.
+1. Collaborator for repository.
 2. Reviewed the implementation in their repository.
 3. Provided feedback through GitHub comments on their Pull Request.
 
@@ -339,3 +339,6 @@ This repository demonstrates the following Git concepts:
 * Git stash usage
 * Git LFS for large files
 * Version tagging and releases
+
+---
+# Thank You
