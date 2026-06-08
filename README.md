@@ -309,35 +309,30 @@ git log --graph --oneline --decorate --all
 # Code Review Collaboration
 ```
 
-# I reviewed an another GitHub repository.
+# For collaboration, I reviewed an another GitHub repository.
 
 Steps performed:
-
-1. Collaborator for repository.
-2. Reviewed the implementation in their repository.
-3. Provided feedback through GitHub comments on their Pull Request.
+1. Reviewed the feature implementation in their repository.
+2. Provided feedback and approved their Pull Request.
 
 
-# A pull request was created and reviewed by a collaborator.
+# A pull request was created and reviewed by the collaborator.
 
 Steps performed:
-
 1. Created a feature branch and raised a pull request.
-2. Added a collaborator as reviewer.
-3. Reviewer approved the pull request.
-4. The pull request was merged into the main branch after approval.
-
+2. The collaborator reviewed and approved the pull request.
+3. The pull request was merged into the main branch after approval.
 ```
-# Conclusion
+---
+## Conclusion
 ```
-
 This repository demonstrates the following Git concepts:
-
 * Branching strategy
 * Feature development workflow
 * Pull request and code review process
 * Git stash usage
 * Git LFS for large files
 * Version tagging and releases
-
-# Thank You
+```
+---
+## Thank You
