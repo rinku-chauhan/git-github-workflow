@@ -340,5 +340,4 @@ This repository demonstrates the following Git concepts:
 * Git LFS for large files
 * Version tagging and releases
 
----
 # Thank You
