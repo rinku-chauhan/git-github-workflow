@@ -1,6 +1,6 @@
 # Git Workflows
 
-This repository demonstrates Git workflows including branching strategies, pull requests, Git LFS, and Git stash.
+A hands-on Git and GitHub project demonstrating feature branching, pull requests, Git LFS, Git Stash, and version control best practices.
 
 ---
 
