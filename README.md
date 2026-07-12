@@ -1,4 +1,4 @@
-# Git Workflows
+# Git & GitHub Workflows
 
 A hands-on Git and GitHub project demonstrating feature branching, pull requests, Git LFS, Git Stash, and version control best practices.
 
@@ -20,7 +20,7 @@ A hands-on Git and GitHub project demonstrating feature branching, pull requests
 
 # Project Overview
 
-The assignment consists of three main tasks:
+The project consists of three main tasks:
 
 * **Q1 – CalculatorPlus Feature Development**
 * **Q2 – Git LFS for Large Files**
@@ -34,11 +34,11 @@ All development steps, branching strategies, and version releases are documented
 
 ## Step 1 – Repository Setup
 
-A private GitHub repository named **git_assignment_HeroVired** was created and cloned locally.
+A private GitHub repository named **git-github-workflows** was created and cloned locally.
 
 ```
 git clone <repository-url>
-cd git_assignment_HeroVired
+cd git-github-workflows
 ```
 
 ---
